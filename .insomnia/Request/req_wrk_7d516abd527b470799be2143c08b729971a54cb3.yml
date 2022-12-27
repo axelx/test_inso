@@ -1,0 +1,21 @@
+_id: req_wrk_7d516abd527b470799be2143c08b729971a54cb3
+type: Request
+parentId: fld_wrk_7d516abd527b470799be2143c08b729943facb10
+modified: 1672040378353
+created: 1672040378353
+url: "{{ base_url }}/v1/catalogs/mrsd/by_orders"
+name: Update an existing pet
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672040378353
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
